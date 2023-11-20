@@ -1,0 +1,5 @@
+*{box-sizing: border-box; padding: 0; margin: 0;font-family: 'Montserrat', sans-serif;}
+.side-navbar{ height: 100vh; background-color: #000;}
+.main_page_nav{ height: 100vh;}
+.main-container{grid-template-columns: 14% 86%;}
+/* .menu-items{display: none;} */
